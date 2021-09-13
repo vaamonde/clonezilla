@@ -1,4 +1,4 @@
-# Curso GRÁTIS de Clonagem de HD ou Partição (GNU/Linux, Windows ou MacOS) utilizando o Clonezilla
+# Curso GRÁTIS de Clonagem de HD ou Partição (GNU/Linux, Windows ou MacOS) utilizando o Clonezilla Live e SE (Server Edition)
 
 ## 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos gratuitos para o Canal, acessando o link de doação do PagSeguro: https://pag.ae/bjlSJcH
 
@@ -29,7 +29,7 @@ O Clonezilla é um programa de partição / clonagem de imagem / clonagem semelh
 
 Mais informações acesse: https://clonezilla.org/<br>
 
-[![Clonezilla Device](http://img.youtube.com/vi/1xPJ9aXcmvc/0.jpg)]( "Device-to-Device")
+[![Clonezilla Device](http://img.youtube.com/vi//0.jpg)]( "Device-to-Device")
 
 Link da vídeo aula: 
 
