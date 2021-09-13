@@ -33,4 +33,4 @@ Mais informações acesse: https://clonezilla.org/<br>
 
 Link da vídeo aula: 
 
-Script utilizado nesse vídeo: 
+Script utilizado nesse vídeo: https://github.com/vaamonde/clonezilla/blob/main/clone/01-DiscoParaDisco.md
