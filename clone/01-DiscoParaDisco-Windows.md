@@ -15,10 +15,10 @@
 #OBSERVAÇÃO IMPORTANTE:
 
 	_ CUIDADO COM HARD DISK MAIOR OU MENOR NA HORA DE FAZER A CLONAGEM UTILIZANDO O CLONEZILLA, 
-	_ as opções de auto-reparticionamento está disponível somente nas opções avançadas, que será 
-	_ mostrada nos próximos vídeos.
+	_ as opções de auto-reparticionamento está disponível somente nas opções avançadas, essas 
+	_ opções serão mostradas nos próximos vídeos.
 
-Link de apoio: https://clonezilla.org/clonezilla-live/doc/11_lite_server/advanced/09-advanced-param.php<br>
+Link de Apoio: https://clonezilla.org/clonezilla-live/doc/11_lite_server/advanced/09-advanced-param.php<br>
 Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_related_options.faq#88_mbr_related_options.faq
 
 #00_ Site Oficial do Clonezilla<br>
