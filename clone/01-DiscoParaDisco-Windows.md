@@ -27,6 +27,10 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	_ Download: https://clonezilla.org/downloads.php
 	_ Releases Note (13/09/2021): https://clonezilla.org/downloads/alternative/release-notes.php
 
+	_ Clonezilla Live: https://clonezilla.org/clonezilla-live.php
+	_ Clonezilla Lite Server: https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/11_lite_server
+	_ Clonezilla Server Edition: https://clonezilla.org/clonezilla-SE/
+
 	_ Alternativas de Software para Clonagem de Hard Disk (Windows, Linux, Mac, etc...)
 	_ Comando dd: https://man7.org/linux/man-pages/man1/dd.1.html
 	_ Redo Rescue: http://redorescue.com/

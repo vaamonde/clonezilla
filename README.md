@@ -1,4 +1,4 @@
-# Curso GRÁTIS de Clonagem de HD ou Partição (GNU/Linux, Windows ou MacOS) utilizando o Clonezilla Live e SE (Server Edition)
+# Curso GRÁTIS de Clonagem de HD ou Partição (GNU/Linux, Windows ou MacOS) utilizando o Clonezilla Live, Lite Server e Server Edition
 
 ## 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos gratuitos para o Canal, acessando o link de doação do PagSeguro: https://pag.ae/bjlSJcH
 
