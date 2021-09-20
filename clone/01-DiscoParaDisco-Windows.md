@@ -8,13 +8,15 @@
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
 #Data de criação: 13/09/2021<br>
-#Data de atualização: 13/09/2021<br>
-#Versão: 0.1<br>
+#Data de atualização: 20/09/2021<br>
+#Versão: 0.2<br>
 #Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 19.10)
 
-#Observação Importante: CUIDADO COM HARD DISK MAIOR OU MENOR NA HORA DE CLONAGEM UTILIZANDO O
-CLONEZILLA, as opções de auto-reparticionamento está disponível somente nas opções avançadas
-do Clonezila que será mostradas nos próximos vídeos.
+#OBSERVAÇÃO IMPORTANTE:
+
+	_ CUIDADO COM HARD DISK MAIOR OU MENOR NA HORA DE FAZER A CLONAGEM UTILIZANDO O CLONEZILLA, 
+	_ as opções de auto-reparticionamento está disponível somente nas opções avançadas, que será 
+	_ mostrada nos próximos vídeos.
 
 Link de apoio: https://clonezilla.org/clonezilla-live/doc/11_lite_server/advanced/09-advanced-param.php<br>
 Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_related_options.faq#88_mbr_related_options.faq
