@@ -58,7 +58,7 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 
 #04_ Clonando Disco para Disco (Device to Device | Hard Disk to Hard Disk) no Clonezilla<br>
 	
-	_ OBS1: Em Hard Disk Mecanicos utilizando o Microsoft Windows e recomendado desfragmentar
+	_ OBS1: Em Hard Disk Mecânicos utilizando o Microsoft Windows é recomendado desfragmentar
 	_       a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
 	_ device-device - Trabalhar diretamente de disco para disco ou partição para partição <OK>
 	_ Beginner - Modo Iniciante: Aceitar as opções padrões <OK>
