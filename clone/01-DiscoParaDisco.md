@@ -12,6 +12,13 @@
 #Versão: 0.1<br>
 #Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 19.10)
 
+#Observação Importante: CUIDADO COM HARD DISK MAIOR OU MENOR NA HORA DE CLONAGEM UTILIZANDO O
+CLONEZILLA, as opções de auto-reparticionamento está disponível somente nas opções avançadas
+do Clonezila que será mostradas nos próximos vídeos.
+
+Link de apoio: https://clonezilla.org/clonezilla-live/doc/11_lite_server/advanced/09-advanced-param.php<br>
+Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_related_options.faq#88_mbr_related_options.faq
+
 #00_ Site Oficial do Clonezilla<br>
 	
 	_ Site: https://clonezilla.org/
