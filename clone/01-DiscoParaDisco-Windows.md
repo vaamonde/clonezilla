@@ -27,6 +27,17 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	_ Download: https://clonezilla.org/downloads.php
 	_ Releases Note (13/09/2021): https://clonezilla.org/downloads/alternative/release-notes.php
 
+	_ Alternativas de Software para Clonagem de Hard Disk (Windows, Linux, Mac, etc...)
+	_ Comando dd: https://man7.org/linux/man-pages/man1/dd.1.html
+	_ Redo Rescue: http://redorescue.com/
+	_ Rescuezilla (Fork Clonezilla): https://rescuezilla.com/
+	_ Acronis True Image: https://www.acronis.com/en-us/products/true-image/
+	_ FOG Project: https://fogproject.org/
+	_ Parted Magic: https://partedmagic.com/
+	_ OSFClone: https://www.osforensics.com/tools/create-disk-images.html
+	_ Mondo Rescue: http://www.mondorescue.org/
+	_ Antigo Symantec Ghost: https://en.wikipedia.org/wiki/Ghost_(disk_utility)
+
 #01_ Live-CD do Clonezilla - Boot Inicial<br>
 	
 	_ Other modes of Clonezilla Live <Enter>
