@@ -10,7 +10,7 @@
 #Data de criação: 13/09/2021<br>
 #Data de atualização: 20/09/2021<br>
 #Versão: 0.2<br>
-#Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 19.10)
+#Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 21.04)
 
 #OBSERVAÇÃO IMPORTANTE:
 
@@ -58,6 +58,8 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 
 #04_ Clonando Disco para Disco (Device to Device | Hard Disk to Hard Disk) no Clonezilla<br>
 	
+	_ OBS1: Em Hard Disk Mecanicos utilizando o Microsoft Windows e recomendado desfragmentar
+	_       a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
 	_ device-device - Trabalhar diretamente de disco para disco ou partição para partição <OK>
 	_ Beginner - Modo Iniciante: Aceitar as opções padrões <OK>
 	_ disk_to_local_disk - Clonagem de disco local para disco local <OK>
