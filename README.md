@@ -25,12 +25,12 @@ Link da Playlist:
 
 Vídeo mostrando os procedimentos básicos para clonar todo o Hard Disk que o sistema Operacional Microsoft Windows 10 está instalado em novo Hard Disk utilizando o Clonezilla 
 
-O Clonezilla é um programa de partição / clonagem de imagem / clonagem semelhante ao Acronis True Image ou ao Norton Ghost, com funcionalidades avançadas e bem divulgadas. Ele ajuda você a fazer a implantação do sistema, backup e recuperação bare-metal. Dois tipos de Clonezilla estão disponíveis, Clonezilla live e Clonezilla SE (edição do servidor). Clonezilla live é adequado para backup e restauração de uma única máquina.
+O Clonezilla é um programa de partição / clonagem de imagem / clonagem semelhante ao Acronis True Image ou ao Norton Ghost, com funcionalidades avançadas e bem divulgadas. Ele ajuda você a fazer a implantação do sistema, backup e recuperação bare-metal. Três tipos de Clonezilla estão disponíveis: Clonezilla Live, Clonezilla Lite Server e Clonezilla SE (edição do servidor). Clonezilla Live é adequado para backup e restauração de uma única máquina.
 
-Mais informações acesse: https://clonezilla.org/<br>
+Mais informações acesse: https://clonezilla.org/
 
-[![Clonezilla Device](http://img.youtube.com/vi//0.jpg)]( "Device-to-Device")
+[![Clonezilla Device-to-Device](http://img.youtube.com/vi/yRuiDZMQu0k/0.jpg)](https://www.youtube.com/watch?v=yRuiDZMQu0k "Clonezilla Device-to-Device")
 
-Link da vídeo aula: 
+Link da vídeo aula: https://www.youtube.com/watch?v=yRuiDZMQu0k
 
 Script utilizado nesse vídeo: https://github.com/vaamonde/clonezilla/blob/main/clone/01-DiscoParaDisco-Windows.md

@@ -8,8 +8,8 @@
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
 #Data de criação: 13/09/2021<br>
-#Data de atualização: 20/09/2021<br>
-#Versão: 0.2<br>
+#Data de atualização: 21/09/2021<br>
+#Versão: 0.3<br>
 #Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 21.04)
 
 #OBSERVAÇÃO IMPORTANTE:
@@ -42,24 +42,29 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	_ Mondo Rescue: http://www.mondorescue.org/
 	_ Antigo Symantec Ghost: https://en.wikipedia.org/wiki/Ghost_(disk_utility)
 
-#01_ Live-CD do Clonezilla - Boot Inicial<br>
+#01_ Opções de Gerenciamento de Disco de Otimização do Microsoft Windows
+
+	_ Pesquisa do Windows: Criar e formatar partições do disco rígido
+	_ Pesquisa do Windows: Desfragmentar e Otimizar Unidades
+
+#02_ Live-CD do Clonezilla - Boot Inicial<br>
 	
 	_ Other modes of Clonezilla Live <Enter>
 	_ Clonezilla Live (VGA 1024x768)<Enter>
 
-#02_ Configurações iniciais do Clonezilla<br>
+#03_ Configurações iniciais do Clonezilla<br>
 	
 	_ Choose language: pt_BR.UTF-8 Brazilian Portuguese | Português do Brasil <OK>
 	_ Configuração do teclado: Keep - Manter layout de teclado padrão - layout US <OK>
 
-#03_ Iniciando a Clonagem com o Clonezilla<br>
+#04_ Iniciando a Clonagem com o Clonezilla<br>
 	
 	_ Start_Clonezilla - Iniciar Clonezilla <OK>
 
-#04_ Clonando Disco para Disco (Device to Device | Hard Disk to Hard Disk) no Clonezilla<br>
+#05_ Clonando Disco para Disco (Device to Device | Hard Disk to Hard Disk) no Clonezilla<br>
 	
 	_ OBS1: Em Hard Disk Mecânicos utilizando o Microsoft Windows é recomendado desfragmentar
-	_       a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
+	        a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
 	_ device-device - Trabalhar diretamente de disco para disco ou partição para partição <OK>
 	_ Beginner - Modo Iniciante: Aceitar as opções padrões <OK>
 	_ disk_to_local_disk - Clonagem de disco local para disco local <OK>
