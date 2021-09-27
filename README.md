@@ -19,7 +19,7 @@ Site do Linux Mint: https://www.linuxmint.com/​<br>
 Site do MacOS: https://www.apple.com/br/macos/big-sur/
 
 ## **Playlist do YouTUBE com todos os Vídeos do Clonezilla**
-Link da Playlist: 
+Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNmNqOJ7i9FfjEB7DxHG05i
 
 ## **#01_ Clonando HARD DISK WINDOWS para um novo HD utilizando o Clonezilla Live (Device-to-Device)**
 
@@ -43,8 +43,8 @@ O Clonezilla é um programa de partição / clonagem de imagem / clonagem semelh
 
 Mais informações acesse: https://clonezilla.org/
 
-[![Clonezilla Partition-to-Partition](http://img.youtube.com/vi//0.jpg)]( "Clonezilla Partition-to-Partition")
+[![Clonezilla Partition-to-Partition](http://img.youtube.com/vi/u7Nr63ky8LM/0.jpg)](https://www.youtube.com/watch?v=u7Nr63ky8LM "Clonezilla Partition-to-Partition")
 
-Link da vídeo aula: 
+Link da vídeo aula: https://www.youtube.com/watch?v=u7Nr63ky8LM
 
 Script utilizado nesse vídeo: https://github.com/vaamonde/clonezilla/blob/main/clone/02-ParticaoParaParticao-Windows.md
