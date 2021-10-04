@@ -8,8 +8,8 @@
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
 #Data de criação: 28/09/2021<br>
-#Data de atualização: 28/09/2021<br>
-#Versão: 0.1<br>
+#Data de atualização: 04/10/2021<br>
+#Versão: 0.2<br>
 #Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 21.04)
 
 #OBSERVAÇÃO IMPORTANTE:
@@ -77,7 +77,7 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	_ Pressione <Enter> para continuar
 	_ Beginner - Modo Iniciante: Aceitar as opções padrões <OK>
 	_ savedisk - Salvar_disco_local_como_imagem <OK>
-	_ Digite um nome para a imagem salva: 2021-09-28-11-img <OK>
+	_ Digite um nome para a imagem salva: windows-dev-img <OK>
 	_ [*] sda 53,7GB_VBOX_HARDDISK__VBOX_HARDDISK_VB <OK>
 	_ z1p Usar compressão gzip paralela, para multicore/CPU <OK>
 	_ sfck - Ignorar verificação/correção de sistema de arquivos de origem <OK>
