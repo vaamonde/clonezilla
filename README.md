@@ -62,3 +62,17 @@ Mais informações acesse: https://clonezilla.org/
 Link da vídeo aula: 
 
 Script utilizado nesse vídeo: https://github.com/vaamonde/clonezilla/blob/main/clone/03-DiscoParaImagem.md
+
+## **#04_ Restaurando uma IMAGEM do Windows utilizando o Clonezilla Live (Image-to-Device)**
+
+Vídeo mostrando os procedimentos básicos para restaurar uma imagem de todo o Hard Disk que foi clonado do sistema Operacional Microsoft Windows 10 utilizando o Clonezilla 
+
+O Clonezilla é um programa de partição / clonagem de imagem / clonagem semelhante ao Acronis True Image ou ao Norton Ghost, com funcionalidades avançadas e bem divulgadas. Ele ajuda você a fazer a implantação do sistema, backup e recuperação bare-metal. Três tipos de Clonezilla estão disponíveis: Clonezilla Live, Clonezilla Lite Server e Clonezilla SE (edição do servidor). Clonezilla Live é adequado para backup e restauração de uma única máquina.
+
+Mais informações acesse: https://clonezilla.org/
+
+[![Clonezilla Image-to-Device](http://img.youtube.com/vi//0.jpg)]( "Clonezilla Image-to-Device")
+
+Link da vídeo aula: 
+
+Script utilizado nesse vídeo: 

@@ -8,8 +8,8 @@
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
 #Data de criação: 28/09/2021<br>
-#Data de atualização: 04/10/2021<br>
-#Versão: 0.2<br>
+#Data de atualização: 19/11/2021<br>
+#Versão: 0.3<br>
 #Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 21.04)
 
 #OBSERVAÇÃO IMPORTANTE:
@@ -65,7 +65,7 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	
 	_ OBS1: Em Hard Disk Mecânicos utilizando o Microsoft Windows é recomendado desfragmentar
 	        a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
-	_ device-image - Trabalhar com disco/partição usando imagens
+	_ device-image - Trabalhar com disco/partição usando imagens <OK>
 	_ local_dev - Usar dispositivo local (Ex: disco rígido, dispositivo USB - Pen Driver, HD Externo, etc...) <OK>
 	_ OBS2: é recomendado conectar o Hard Disk Externo (USB, eSATA, etc...) antes de iniciar o Clonezilla
 	_ Pressione <Enter> para continuar
@@ -73,7 +73,8 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	_ Pressione Ctrl+C para continuar
 	_ sdb1 50GB_ntfs_Arquivos (In_VBOX_HARDDISK_)_VBOX_HARDISK_VB <OK>
 	_ no-fsck Skip checking/repairing the file system before mounting <OK>
-	_ CZ_IMG (Diretório pré-criado no Windows para armazenar as imagens) <Done>
+	_ CZ_IMG (Diretório pré-criado no Windows para armazenar as imagens) <Enter>
+	_ 
 	_ Pressione <Enter> para continuar
 	_ Beginner - Modo Iniciante: Aceitar as opções padrões <OK>
 	_ savedisk - Salvar_disco_local_como_imagem <OK>
