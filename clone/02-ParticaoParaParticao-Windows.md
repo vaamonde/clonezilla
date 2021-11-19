@@ -8,8 +8,8 @@
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
 #Data de criação: 21/09/2021<br>
-#Data de atualização: 21/09/2021<br>
-#Versão: 0.1<br>
+#Data de atualização: 19/11/2021<br>
+#Versão: 0.2<br>
 #Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 21.04)
 
 #OBSERVAÇÃO IMPORTANTE:
@@ -41,6 +41,8 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	_ OSFClone: https://www.osforensics.com/tools/create-disk-images.html
 	_ Mondo Rescue: http://www.mondorescue.org/
 	_ Antigo Symantec Ghost: https://en.wikipedia.org/wiki/Ghost_(disk_utility)
+	_ AOEMI https://www.aomeitech.com/
+	_ Macrium ReflectFree: https://www.macrium.com/reflectfree
 
 #01_ Opções de Gerenciamento de Disco de Otimização do Microsoft Windows
 

@@ -41,6 +41,8 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 	_ OSFClone: https://www.osforensics.com/tools/create-disk-images.html
 	_ Mondo Rescue: http://www.mondorescue.org/
 	_ Antigo Symantec Ghost: https://en.wikipedia.org/wiki/Ghost_(disk_utility)
+	_ AOEMI https://www.aomeitech.com/
+	_ Macrium ReflectFree: https://www.macrium.com/reflectfree
 
 #01_ Opções de Gerenciamento de Disco de Otimização do Microsoft Windows
 
