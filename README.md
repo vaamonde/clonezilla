@@ -61,7 +61,7 @@ Mais informações acesse: https://clonezilla.org/
 
 Link da vídeo aula: 
 
-Script utilizado nesse vídeo: https://github.com/vaamonde/clonezilla/blob/main/clone/03-DiscoParaImagem.md
+Script utilizado nesse vídeo: https://github.com/vaamonde/clonezilla/blob/main/clone/03-DiscoParaImagem-Windows.md
 
 ## **#04_ Restaurando uma IMAGEM do Windows utilizando o Clonezilla Live (Image-to-Device)**
 
@@ -75,4 +75,4 @@ Mais informações acesse: https://clonezilla.org/
 
 Link da vídeo aula: 
 
-Script utilizado nesse vídeo: 
+Script utilizado nesse vídeo: https://github.com/vaamonde/clonezilla/blob/main/clone/04-ImagemParaDisco-Windows.md
