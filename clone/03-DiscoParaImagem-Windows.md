@@ -56,39 +56,39 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 
 #03_ Configurações iniciais do Clonezilla<br>
 	
-	_ Choose language: pt_BR.UTF-8 Brazilian Portuguese | Português do Brasil <OK>
-	_ Configuração do teclado: Keep - Manter layout de teclado padrão - layout US <OK>
+	_ Choose language: pt_BR.UTF-8 Brazilian Portuguese | Português do Brasil <Enter>
+	_ Configuração do teclado: Keep - Manter layout de teclado padrão - layout US <Enter>
 
 #04_ Iniciando a Clonagem com o Clonezilla<br>
 	
-	_ Start_Clonezilla - Iniciar Clonezilla <OK>
+	_ Start_Clonezilla - Iniciar Clonezilla <Enter>
 
 #05_ Clonando Disco para Imagem (Device to Image) no Clonezilla<br>
 	
 	_ OBS1: Em Hard Disk Mecânicos utilizando o Microsoft Windows é recomendado desfragmentar
 	        a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
-	_ device-image - Trabalhar com disco/partição usando imagens <OK>
-	_ local_dev - Usar dispositivo local (Ex: disco rígido, dispositivo USB - Pen Driver, HD Externo, etc...) <OK>
+	_ device-image - Trabalhar com disco/partição usando imagens <Enter>
+	_ local_dev - Usar dispositivo local (Ex: disco rígido, dispositivo USB - Pen Driver, HD Externo, etc...) <Enter>
 	_ OBS2: é recomendado conectar o Hard Disk Externo (USB, eSATA, etc...) antes de iniciar o Clonezilla
 	_ Pressione <Enter> para continuar
 	_ OBS3: o Clonezilla recomenda utilizar HD Externo, caso não seja utilizado ele irá usar os discos locais
 	_ Pressione Ctrl+C para continuar
-	_ sdb1 50GB_ntfs_Arquivos (In_VBOX_HARDDISK_)_VBOX_HARDISK_VB <OK>
-	_ no-fsck Skip checking/repairing the file system before mounting <OK>
+	_ sdb1 50GB_ntfs_Arquivos (In_VBOX_HARDDISK_)_VBOX_HARDISK_VB <Enter>
+	_ no-fsck Skip checking/repairing the file system before mounting <Enter>
 	_ CZ_IMG (Diretório pré-criado no Windows para armazenar as imagens) <Enter>
-	_ 
-	_ Pressione <Enter> para continuar
-	_ Beginner - Modo Iniciante: Aceitar as opções padrões <OK>
-	_ savedisk - Salvar_disco_local_como_imagem <OK>
-	_ Digite um nome para a imagem salva: windows-dev-img <OK>
-	_ [*] sda 53,7GB_VBOX_HARDDISK__VBOX_HARDDISK_VB <OK>
-	_ z1p Usar compressão gzip paralela, para multicore/CPU <OK>
-	_ sfck - Ignorar verificação/correção de sistema de arquivos de origem <OK>
-	_ scs - Não, pular a verificação da imagem salva <OK>
-	_ senc - Não criptografar a imagem <OK>
-	_ p choose - Escolher reiniciar/desligar/etc. quando tudo estiver terminado <OK>
-	_ Pressione <Enter> para continuar
+	_ Pressione: TAB para ir para <Done> e pressione: <Enter>
+	_ Pressione <Enter> para continuar: <Enter>
+	_ Beginner - Modo Iniciante: Aceitar as opções padrões <Enter>
+	_ savedisk - Salvar_disco_local_como_imagem <Enter>
+	_ Digite um nome para a imagem salva: windows-dev-img <Enter>
+	_ [*] sda 53,7GB_VBOX_HARDDISK__VBOX_HARDDISK_VB <Enter>
+	_ z1p Usar compressão gzip paralela, para multicore/CPU <Enter>
+	_ sfck - Ignorar verificação/correção de sistema de arquivos de origem <Enter>
+	_ scs - Não, pular a verificação da imagem salva <Enter>
+	_ senc - Não criptografar a imagem <Enter>
+	_ p choose - Escolher reiniciar/desligar/etc. quando tudo estiver terminado <Enter>
+	_ Pressione <Enter> para continuar: <Enter>
 	_ Você tem certeza de que deseja continuar? (y/n) y <Enter>
-	_ Pressione <Enter> para continuar
-	_ poweroff Desligar <OK>
-	_ Press <Enter> to continue
+	_ Pressione <Enter> para continuar: <Enter>
+	_ poweroff Desligar <Enter>
+	_ Please remove the live-medium, close the tray (if any) and press ENTER to continue: <Enter>

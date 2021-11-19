@@ -56,27 +56,27 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 
 #03_ Configurações iniciais do Clonezilla<br>
 	
-	_ Choose language: pt_BR.UTF-8 Brazilian Portuguese | Português do Brasil <OK>
-	_ Configuração do teclado: Keep - Manter layout de teclado padrão - layout US <OK>
+	_ Choose language: pt_BR.UTF-8 Brazilian Portuguese | Português do Brasil <Enter>
+	_ Configuração do teclado: Keep - Manter layout de teclado padrão - layout US <Enter>
 
 #04_ Iniciando a Clonagem com o Clonezilla<br>
 	
-	_ Start_Clonezilla - Iniciar Clonezilla <OK>
+	_ Start_Clonezilla - Iniciar Clonezilla <Enter>
 
 #05_ Clonando Partição para Partição (Partition to Partition) no Clonezilla<br>
 	
 	_ OBS1: Em Hard Disk Mecânicos utilizando o Microsoft Windows é recomendado desfragmentar
 	        a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
-	_ device-device - Trabalhar diretamente de disco para disco ou partição para partição <OK>
-	_ Beginner - Modo Iniciante: Aceitar as opções padrões <OK>
-	_ part_to_local_part - clonagem_de_partição_local_para_partição_local <OK>
-	_ Partição local de origem: sda3 33.1G_ntfs_Arquivos (In_VBOX_HARDISK_)_VBOX_HARDISK_VB <OK>
-	_ Partição local de destino: sdb1 50g_ntfs_Particao (In_VBOX_HARDISK_)_VBOX_HARDISK_VB <OK>
-	_ sfsck - Ignorar verificação/correção de sistema de arquivos de origem <OK>
-	_ p choose - Escolher reiniciar/desligar/etc. quando tudo estiver terminado <OK>
+	_ device-device - Trabalhar diretamente de disco para disco ou partição para partição <Enter>
+	_ Beginner - Modo Iniciante: Aceitar as opções padrões <Enter>
+	_ part_to_local_part - clonagem_de_partição_local_para_partição_local <Enter>
+	_ Partição local de origem: sda3 33.1G_ntfs_Arquivos (In_VBOX_HARDISK_)_VBOX_HARDISK_VB <Enter>
+	_ Partição local de destino: sdb1 50g_ntfs_Particao (In_VBOX_HARDISK_)_VBOX_HARDISK_VB <Enter>
+	_ sfsck - Ignorar verificação/correção de sistema de arquivos de origem <Enter>
+	_ p choose - Escolher reiniciar/desligar/etc. quando tudo estiver terminado <Enter>
 	_ Pressione "Enter" para Continuar: <Enter>
 	_ Você tem certeza de que deseja continuar? (y/n): y <Enter>
 	_ Você tem certeza de que deseja continuar? (y/n): y <Enter>
 	_ Pressione "Enter" para Continuar: <Enter>
-	_ Poweroff - Desligar <OK>
+	_ Poweroff - Desligar <Enter>
 	_ Please remove the live-medium, close the tray (if any) and press ENTER to continue: <Enter>
