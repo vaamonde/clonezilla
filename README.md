@@ -1,6 +1,8 @@
 # Curso GRÁTIS de Clonagem de HD ou Partição (GNU/Linux, Windows ou MacOS) utilizando o Clonezilla Live, Lite Server e Server Edition
 
-## 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos gratuitos para o Canal, acessando o link de doação do PagSeguro: https://pag.ae/bjlSJcH
+## 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal
+## 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
+## 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
 
 Robson Vaamonde<br>
 Procedimentos em TI: http://procedimentosemti.com.br<br>
