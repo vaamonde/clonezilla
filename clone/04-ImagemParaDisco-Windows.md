@@ -7,9 +7,9 @@
 #Facebook Bora para Prática: https://www.facebook.com/BoraParaPratica<br>
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
-#Data de criação: 13/09/2021<br>
+#Data de criação: 19/11/2021<br>
 #Data de atualização: 19/11/2021<br>
-#Versão: 0.4<br>
+#Versão: 0.1<br>
 #Testado e homologado do Clonezilla Alternative Stable - 20210817-hirsute (Ubuntu Based 21.04)
 
 #OBSERVAÇÃO IMPORTANTE:
@@ -52,7 +52,7 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 #02_ Live-CD do Clonezilla - Boot Inicial<br>
 	
 	_ Other modes of Clonezilla Live <Enter>
-	_ Clonezilla Live (VGA 1024x768)<Enter>
+	_ Clonezilla Live (VGA 1024x768) <Enter>
 
 #03_ Configurações iniciais do Clonezilla<br>
 	
@@ -61,22 +61,33 @@ Link de FAQ/Q&A: https://drbl.org/faq/fine-print.php?path=./2_System/88_mbr_rela
 
 #04_ Iniciando a Clonagem com o Clonezilla<br>
 	
-	_ Start_Clonezilla - Iniciar Clonezilla <OK>
+	_ Start_Clonezilla - Iniciar Clonezilla <Enter>
 
-#05_ Clonando Disco para Disco (Device to Device | Hard Disk to Hard Disk) no Clonezilla<br>
+#05_ Restaurando uma Imagem para o Hard Disk (Image to Device) no Clonezilla<br>
 	
 	_ OBS1: Em Hard Disk Mecânicos utilizando o Microsoft Windows é recomendado desfragmentar
 	        a unidade antes de clonar utilizando o: Desfragmentar e Otimizar Unidades
-	_ device-device - Trabalhar diretamente de disco para disco ou partição para partição <Enter>
+	_ device-image - Trabalhar com disco/partição usando imagens <Enter>
+	_ local_dev - Usar dispositivo local (Ex: disco rígido, dispositivo USB - Pen Driver, HD Externo, etc...) <Enter>
+	_ OBS2: é recomendado conectar o Hard Disk Externo (USB, eSATA, etc...) antes de iniciar o Clonezilla
+	_ Pressione <Enter> para continuar: <Enter>
+	_ OBS3: o Clonezilla recomenda utilizar HD Externo, caso não seja utilizado ele irá usar os discos locais
+	_ Pressione Ctrl+C para continuar
+	_ sdb1 50GB_ntfs_Arquivos (In_VBOX_HARDDISK_)_VBOX_HARDISK_VB <Enter>
+	_ no-fsck Skip checking/repairing the file system before mounting <Enter>
+	_ CZ_IMG (Diretório pré-criado no Windows para armazenar as imagens) <Enter>
+	_ Pressione: TAB para ir para <Done> e pressione: <Enter>
+	_ Pressione <Enter> para continuar: <Enter>
 	_ Beginner - Modo Iniciante: Aceitar as opções padrões <Enter>
-	_ disk_to_local_disk - Clonagem de disco local para disco local <Enter>
-	_ Disco de origem: sda 53,7GB_VBOX_HARDDISK__VBOX_HARDDISK_VB <Enter>
-	_ Disco de destino: sda 64,4GB_VBOX_HARDDISK__VBOX_HARDDISK_VB <Enter>
-	_ sfsck - Ignorar verificação/correção de sistema de arquivos de origem <Enter>
-	_ p choose - Escolher reiniciar/desligar/etc. quando tudo estiver terminado <Enter>
-	_ Pressione "Enter" para Continuar: <Enter>
-	_ Você tem certeza de que deseja continuar? (y/n): y <Enter>
-	_ Você tem certeza de que deseja continuar? (y/n): y <Enter>
-	_ Pressione "Enter" para Continuar: <Enter>
-	_ Poweroff - Desligar <Enter>
+	_ restoredisk - Restaurar imagem para disco local <Enter>
+	_ windows-dev-img-DATA-HD-TAMANHO <Enter>
+	_ [*] sdb 85,93GB_VBOX_HARDDISK__VBOX_HARDDISK_VB <Enter>
+	_ scr - Não, pular verificação de imagem antes de restaurar <Enter>
+	_ p choose - Escolher reiniciar/desligar/etc. quando tudo estiver terminado <OK>
+	_ Pressione <Enter> para continuar: <Enter>
+	_ Pressione <Enter> para continuar: <Enter>
+	_ Você tem certeza de que deseja continuar? (y/n) y <Enter>
+	_ Você tem certeza de que deseja continuar? (y/n) y <Enter>
+	_ Pressione <Enter> para continuar: <Enter>
+	_ poweroff Desligar <Enter>
 	_ Please remove the live-medium, close the tray (if any) and press ENTER to continue: <Enter>
